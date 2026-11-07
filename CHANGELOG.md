@@ -1,5 +1,14 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.12.0 — 7 novembre 2026
+
+- Premier accueil : intro_loop.mp3 en boucle à 100 %.
+- Première partie : passage à battle_loop.mp3 ; cette piste reste sélectionnée jusqu’au rechargement, même en revenant à l’accueil.
+- Battle continue pendant la pause, la défaite et les redémarrages, sans retour au début. Menu à 100 %, premier niveau à 115 %, puis +12 points par niveau ; défaite à 115 %.
+- Collision mortelle : paddle_blast.wav. Navigation et validation : button_press.wav. Retour à l’accueil ou fermeture des réglages : beep.wav.
+- Les effets audio et pistes sont intégrés au HTML pour conserver une copie locale autonome.
+- Réglages verrouillés, langues et records conservés.
+
 ## 1.11.0 — 7 novembre 2026
 
 - Numérotation unifiée : v1.11.0 dans le titre du navigateur, le menu, les notes intégrées et la copie locale.
