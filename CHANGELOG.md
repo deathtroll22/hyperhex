@@ -1,5 +1,13 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.1 — 7 novembre 2026
+
+- Volume de l’impact réduit d’environ 36 % par rapport à la 1.14.0, sans changer la musique ni les autres effets.
+- Luminosité du décor de défaite ramenée de 62 % à 32 % ; texte et score restent blancs.
+- Ralenti immédiat de 60 %, progressant vers 82 %. Murs, rotation et animations utilisent la même horloge visuelle ralentie ; score figé et musique inchangés.
+- Accélération du curseur raccourcie à 25 ms, freinage à 18 ms, inversion accélérée. Vitesse maximale inchangée.
+- Le redémarrage remet le jeu à sa vitesse normale et supprime le filtre de défaite.
+
 ## 1.14.0 — 7 novembre 2026
 
 - Accélération clavier/tactile sur 55 ms et freinage sur 45 ms ; inversion de direction rapide, vitesse maximale conservée.
