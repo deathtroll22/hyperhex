@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.13.1 — 7 novembre 2026
+
+- Son paddle_blast renforcé uniquement pour la défaite ; les autres effets conservent leur niveau.
+- Décor de défaite ralenti progressivement jusqu’à 22 % de sa vitesse, sans interrompre son animation ni modifier la musique.
+- Marges latérales élargies, score dans une police monospace distincte et lisible.
+- Glitches plus fréquents avec deux bandes de décalage superposées ; réduction des animations toujours respectée.
+
 ## 1.13.0 — 7 novembre 2026
 
 - Game Over sans modale : lettrage vectoriel pixellisé, glitches et score agrandi.
