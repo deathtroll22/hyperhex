@@ -1,5 +1,9 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.5 — 7 novembre 2026
+
+- Effet sonore `paddle_hit.wav` joué à chaque transition au début d’un niveau. Le son est intégré au fichier HTML et suit le volume des effets.
+
 ## 1.14.4 — 7 novembre 2026
 
 - Distorsion de la ligne pliée en 4D réduite d’environ 24 %, en conservant le mouvement du monde.
