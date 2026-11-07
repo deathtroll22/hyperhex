@@ -1,5 +1,18 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.3 — 7 novembre 2026
+
+- Game Over et score réduits pour ménager davantage d’espace sur les côtés, particulièrement sur mobile.
+
+## 1.14.2 — 7 novembre 2026
+
+- Score Game Over sans unité, chiffres vectoriels anguleux à sept segments.
+- Ligne 1D à 78 % de la hauteur, sans changer sa sensibilité ; ligne 4D inchangée.
+- Vitesse maximale mobile réduite de 10 % en 2D, 3D et 4D. Commandes ordinateur inchangées.
+- Mixage des pistes via Web Audio GainNode, pour ne plus dépendre du volume des éléments média sur iPhone. Effets WAV décodés et joués via Web Audio.
+- Atténuation musicale temporaire de 62 % pendant l’impact, remontée progressive sans coupure. Impact légèrement renforcé sur les appareils tactiles uniquement.
+- Tests en navigateur simulé ; équilibre perceptif à confirmer sur iPhone physique.
+
 ## 1.14.1 — 7 novembre 2026
 
 - Volume de l’impact réduit d’environ 36 % par rapport à la 1.14.0, sans changer la musique ni les autres effets.
