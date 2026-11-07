@@ -1,5 +1,13 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.13.0 — 7 novembre 2026
+
+- Game Over sans modale : lettrage vectoriel pixellisé, glitches et score agrandi.
+- Décor noir et blanc, murs animés en continu dans la dimension perdue. Horloge visuelle séparée du score ; aucun gain de points ni passage de niveau après la défaite.
+- HOME · SPACE agrandi et placé en haut de l’écran.
+- Demande de lecture de l’intro dès l’ouverture, avec nouvel essai à l’affichage de la page. Les restrictions d’autoplay sonore des navigateurs restent applicables ; le premier geste autorise le son si nécessaire.
+- Musiques continues et affectations sonores de la 1.12.0 conservées.
+
 ## 1.12.0 — 7 novembre 2026
 
 - Premier accueil : intro_loop.mp3 en boucle à 100 %.
