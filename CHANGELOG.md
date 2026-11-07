@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.4 — 7 novembre 2026
+
+- Distorsion de la ligne pliée en 4D réduite d’environ 24 %, en conservant le mouvement du monde.
+- Son de transition entre les dimensions désactivé.
+- Score Game Over réduit, affiché dans une police monospace plus carrée, avec un glitch discret.
+
 ## 1.14.3 — 7 novembre 2026
 
 - Game Over et score réduits pour ménager davantage d’espace sur les côtés, particulièrement sur mobile.
