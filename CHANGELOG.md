@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.8 — 7 novembre 2026
+
+- Portes du monde 1D réparties sur six emplacements fixes le long de la ligne.
+- Les séquences 1D ne peuvent pas rester plus de deux portes de suite sur le même emplacement ; les autres positions sont choisies aléatoirement.
+- Les ouvertures restent plus étroites que l’écart entre les emplacements, afin qu’un même point ne permette pas d’enchaîner des portes voisines sans bouger. Le 4D conserve sa grille de huit positions.
+
 ## 1.14.7 — 7 novembre 2026
 
 - Son `paddle_hit` joué en superposition sur la boucle de jeu, sans la couper ; niveau d’effet équilibré pour préserver la continuité musicale.
