@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.7 — 7 novembre 2026
+
+- Son `paddle_hit` joué en superposition sur la boucle de jeu, sans la couper ; niveau d’effet équilibré pour préserver la continuité musicale.
+- Vitesse de la boucle mise à jour uniquement lorsqu’elle change, sans réécriture audio à chaque image.
+
 ## 1.14.6 — 7 novembre 2026
 
 - Distorsion globale et pliage du monde 4D réduits davantage, en conservant son mouvement.
