@@ -5,6 +5,7 @@
 - Distorsion de la ligne pliée en 4D réduite d’environ 24 %, en conservant le mouvement du monde.
 - Son de transition entre les dimensions désactivé.
 - Score Game Over réduit, affiché dans une police monospace plus carrée, avec un glitch discret.
+- Menu et commande de pause retirés pendant la partie ; les contrôles sont simplement neutralisés quand la fenêtre perd le focus.
 
 ## 1.14.3 — 7 novembre 2026
 
