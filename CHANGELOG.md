@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.0 — 7 novembre 2026
+
+- Accélération clavier/tactile sur 55 ms et freinage sur 45 ms ; inversion de direction rapide, vitesse maximale conservée.
+- Vitesse résiduelle remise à zéro à la pause, au menu, au redémarrage et lors d’un blocage latéral. Molette conservée en déplacement direct.
+- Volume des deux pistes réduit de 40 % ; effets de navigation et impact de défaite conservés, donc plus présents relativement à la musique.
+- Boucles continues, vitesses musicales et Game Over de la 1.13.1 conservés.
+
 ## 1.13.1 — 7 novembre 2026
 
 - Son paddle_blast renforcé uniquement pour la défaite ; les autres effets conservent leur niveau.
