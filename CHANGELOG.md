@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.14.6 — 7 novembre 2026
+
+- Distorsion globale et pliage du monde 4D réduits davantage, en conservant son mouvement.
+- Portes 1D et 4D alignées sur huit positions fixes sans afficher de lignes-guide ; leur position est calculée en proportions de la ligne.
+
 ## 1.14.5 — 7 novembre 2026
 
 - Effet sonore `paddle_hit.wav` joué à chaque transition au début d’un niveau. Le son est intégré au fichier HTML et suit le volume des effets.
