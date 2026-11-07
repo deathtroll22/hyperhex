@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.16.0 — 7 novembre 2026
+
+- Accueil animé avec l’arène réelle en fond, ambiance scanline et glitches discrets ; ancien visuel statique supprimé.
+- Panneau d’accueil et marges simplifiés ; progression en six dimensions redessinée avec jauges lumineuses animées.
+
 ## 1.14.8 — 7 novembre 2026
 
 - Portes du monde 1D réparties sur six emplacements fixes le long de la ligne.
