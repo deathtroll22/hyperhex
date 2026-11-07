@@ -1,11 +1,11 @@
-# HYPERHEX Dimension — 1.10
+# HYPERHEX Dimension — v1.11.0
 
 [Jouer / Play](https://deathtroll22.github.io/hyperhex/)
 
-Created by Nans Arnaud, 2026.
+Nans Arnaud, 2026. Jeu navigateur pour ordinateur et mobile.
 
-Six dimensions in 60 seconds, followed by faster cycles. Progressive distortion, randomized patterns and music, English/French settings, local records. Practice lets you choose dimension and speed.
+Six dimensions en 60 secondes, puis cycles accélérés. Flèches ou toucher pour déplacer et rejouer. Espace : accueil. P : pause. F : plein écran.
 
-Arrows: move and restart. Touch: hold either side; touch again after losing. Space: home. P: pause. F: fullscreen.
+Practice et personnalisation audio/visuelle temporairement désactivés. Langue anglais/français disponible. Records conservés localement.
 
-1.10: thinner spawning line walls, longer incoming warning, free 3D camera, spaced two-wall groups in 6D, animated menu artwork and menu music after browser audio authorization.
+Voir [CHANGELOG.md](CHANGELOG.md) pour les implémentations détaillées et [version.json](version.json) pour la version publiée.
