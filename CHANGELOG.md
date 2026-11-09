@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.31.0 — 9 novembre 2026
+
+- Menu normal avec liseré hexagonal rouge et halo néon restaurés ; taille plafonnée sur grand écran pour éviter un cadre disproportionné. Repères de dimension agrandis pour les touches mobiles, notamment le choix Training.
+- Portes 1D au contour néon violet, sans traits blancs aux bords des ouvertures ; curseur à largeur constante sur téléphone, tablette et ordinateur.
+- Projection 4D retravaillée en perspective : bascule latérale dépendante de la profondeur, portes plus épaisses vers les bords, faces en relief et micro-glitches animés sur les lignes.
+- Écran Game Over moins glitché et score présenté avec une typographie plus nette.
+
 ## 1.30.0 — 9 novembre 2026
 
 - Menu mobile restructuré : logo réduit/abaissé, barre de progression et score recentrés/rapprochés, bouton Play plus étroit et entièrement dans l’hexagone. Les deux états partagent la même géométrie.
