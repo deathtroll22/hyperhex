@@ -1,5 +1,13 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.17.0 — 9 novembre 2026
+
+- 1D : six portes alignées, déplacements bornés aux extrémités, sauts limités à trois emplacements, pas plus de deux portes consécutives dans la même voie. Ouvertures sans chevauchement et cadence/spacement visuel uniformes.
+- 4D ligne pliée : même grille de six voies et séquences à distance bornée ; le curseur réapparaît de l’autre côté en franchissant un bord.
+- 1D : le curseur reste contenu dans ses six voies et les murs gardent leur vitesse jusqu’à la ligne, puis ralentissent en s’estompant.
+- Profondeur (3D) : arrivée des murs espacée à cadence temporelle régulière et légèrement plus accessible.
+- Menu monochrome à formes organiques lentes, sans pulsation rythmée ; panneau hexagonal, progression six cellules, bouton Jouer et dock inférieur avec crédits et icônes.
+
 ## 1.16.0 — 7 novembre 2026
 
 - Accueil animé avec l’arène réelle en fond, ambiance scanline et glitches discrets ; ancien visuel statique supprimé.
