@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.33.0 — 9 novembre 2026
+
+- Portes néon sur toutes les dimensions, avec une couleur synthwave choisie au hasard parmi 12 accents à chaque niveau et sans doublon entre les six dimensions d’une partie.
+- Nouveau toggle « Dark neon mode » dans les réglages : remplissage sombre des portes et contours lumineux. En 4D, le remplissage s’assombrit progressivement à mesure que la porte approche du curseur.
+
 ## 1.32.0 — 9 novembre 2026
 
 - 4D accentué avec une bascule du plateau pouvant approcher 55°, davantage de tremblements synchronisés à la musique et des déchirures/glitches lumineux directement sur le terrain. 5D et 6D reçoivent également des impulsions visuelles plus marquées.
