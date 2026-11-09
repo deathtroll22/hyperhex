@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.42.0 — 9 novembre 2026
+
+- 2D à 6D : les côtés des ouvertures sont maintenant des limites coulissantes; les frôler ne fait plus perdre. La face frontale des murs reste dangereuse.
+- Mode néon sombre en 2D : suppression des traits radiaux parasites dans l’ouverture; l’éclat des surfaces reste intact.
+
 ## 1.41.0 — 9 novembre 2026
 
 - 2D à 6D : les côtés des ouvertures sont maintenant des limites coulissantes; les frôler ne fait plus perdre. La face frontale des murs reste dangereuse.
