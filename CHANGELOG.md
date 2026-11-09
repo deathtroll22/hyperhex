@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.34.0 — 9 novembre 2026
+
+- 4D accéléré : projection directe des scènes en ligne, échantillonnage des murs réduit et relief regroupé par face, sans répétition de petits tracés coûteux. L’éclat 4D est allégé pour stabiliser le rythme d’image sur ordinateur.
+- Alternance 6D corrigée porte par porte, en partie normale comme en entraînement : une ou deux arrivées peuvent venir du même côté, puis le sens change. Les délais conservent le temps de déplacement calculé par le motif et empêchent les passages impossibles.
+
 ## 1.33.0 — 9 novembre 2026
 
 - Portes néon sur toutes les dimensions, avec une couleur synthwave choisie au hasard parmi 12 accents à chaque niveau et sans doublon entre les six dimensions d’une partie.
