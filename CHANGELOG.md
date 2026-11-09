@@ -1,5 +1,14 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.18.0 — 9 novembre 2026
+
+- 1D : épaisseur des portes constante de leur apparition jusqu’à la ligne ; après le passage, elles ralentissent, restent grisées à l’écran plus longtemps, puis sortent du champ.
+- Profondeur (3D) : portes espacées de façon régulière avec un intervalle augmenté ; curseur placé 10 % plus loin du centre pour mieux lire les arrivées.
+- Accueil : progression réservée au temps réellement atteint, suppression des reflets aléatoires, fond étoilé mêlant formes organiques et facettes géométriques.
+- Panneau plus haut et moins pointu, sans bordure horizontale, cellules de progression réduites, record sur deux lignes et bouton Jouer rectangulaire élargi.
+- Portes 1D et 4D verrouillées sur six zones égales ; maximum trois zones d’écart et deux portes d’affilée dans la même zone. Le déplacement ne reboucle pas en 1D, mais reboucle bien aux bords en 4D.
+- En 4D, les deux prochaines lignes à franchir prennent une teinte orange-rouge discrète qui se renforce à l’approche, pour signaler la priorité.
+
 ## 1.17.0 — 9 novembre 2026
 
 - 1D : six portes alignées, déplacements bornés aux extrémités, sauts limités à trois emplacements, pas plus de deux portes consécutives dans la même voie. Ouvertures sans chevauchement et cadence/spacement visuel uniformes.
