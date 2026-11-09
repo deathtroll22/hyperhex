@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.32.0 — 9 novembre 2026
+
+- 4D accentué avec une bascule du plateau pouvant approcher 55°, davantage de tremblements synchronisés à la musique et des déchirures/glitches lumineux directement sur le terrain. 5D et 6D reçoivent également des impulsions visuelles plus marquées.
+- Arrivées 6D entremêlées en alternance stricte entre le centre et l’extérieur, y compris dans la séquence infinie après une défaite.
+- Échap ramène à l’accueil depuis la partie et ferme les réglages ; Espace lance/rejoue. Les réglages ont été épurés : notes et consignes retirées, langage en boutons English/Français et volumes en cinq choix cliquables de 0 à 4.
+
 ## 1.31.0 — 9 novembre 2026
 
 - Menu normal avec liseré hexagonal rouge et halo néon restaurés ; taille plafonnée sur grand écran pour éviter un cadre disproportionné. Repères de dimension agrandis pour les touches mobiles, notamment le choix Training.
