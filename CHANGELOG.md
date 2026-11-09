@@ -1,5 +1,9 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.25.1 — 9 novembre 2026
+
+- Le bouton Jouer lance toujours une partie normale, même après le déblocage du mode entraînement. Le choix des dimensions reste disponible pour l’entraînement.
+
 ## 1.25.0 — 9 novembre 2026
 
 - Code entraînement remplacé par 1–2–3, logo ×3, puis 3–2–1, sans minuterie ; en cas d’erreur, la séquence repart au début.
