@@ -1,5 +1,13 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.25.0 — 9 novembre 2026
+
+- Code entraînement remplacé par 1–2–3, logo ×3, puis 3–2–1, sans minuterie ; en cas d’erreur, la séquence repart au début.
+- Glitch d’hexagone limité au contour, sans flash rouge/blanc sur le panneau ; secousses plus discrètes et plus courtes.
+- Sens de torsion 2D/3D rétabli selon la rotation.
+- Après 60 secondes, arrivée au 7D : flash de fin de cycle, retour au parcours 1D avec palette claire ; chaque nouveau cycle augmente de 15 % la vitesse du curseur, des murs et de la cadence.
+- Score de Game Over remplacé par des chiffres sobres à largeur régulière.
+
 ## 1.24.0 — 9 novembre 2026
 
 - Déblocage secret de l’entraînement : trois clics sur HYPERHEX, puis 1–2–3, à répéter trois fois sans minuterie ; le code est réinitialisé au rechargement.
