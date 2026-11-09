@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.38.0 — 9 novembre 2026
+
+- 4D : dérive verticale pseudo-aléatoire du plan et fragments géométriques flous qui remontent à différentes profondeurs pour renforcer la sensation de chute.
+- Audio : variation de tempo progressive au changement de dimension, sans redémarrage du loop; l’effet de transition reste superposé.
+
 ## 1.37.0 — 9 novembre 2026
 
 - Curseur 1D carré et de taille fixe en portrait comme en paysage.
