@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.20.0 — 9 novembre 2026
+
+- Accueil : véritable panneau hexagonal sans bordure, record sans unité ni « s », typographie assortie au titre.
+- 1D et 4D : même fond monochrome organique et géométrique que l’accueil, avec murs et curseur conservés au premier plan.
+- 1D : portes amincies de moitié, largeur d’ouverture exactement égale à un sixième de la ligne, épaisseur constante au passage, puis grisaille et fondu après franchissement complet.
+
 ## 1.19.0 — 9 novembre 2026
 
 - Repères radiaux à six secteurs en 3D et 6D ; les portes s’alignent maintenant sur ces repères, qui tournent et se déforment avec l’arène.
