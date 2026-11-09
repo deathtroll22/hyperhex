@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.37.0 — 9 novembre 2026
+
+- Curseur 1D carré et de taille fixe en portrait comme en paysage.
+- 2D/3D : légère tolérance de contact sur l’encadrement intérieur des portes.
+- Suppression du cercle d’impact au curseur. En 1D, le ralentissement commence après le passage complet du mur sur la ligne.
+
 ## 1.36.0 — 9 novembre 2026
 
 - 1D : épaisseur écran constante pendant toute la traversée; les portes passent en gris après franchissement complet, puis se désintègrent en fondu.
