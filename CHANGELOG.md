@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.39.0 — 9 novembre 2026
+
+- 6D : chaque porte est calée sur l’instant de passage du curseur; d’un sens d’arrivée à l’autre, les emplacements restent voisins (écart maximal d’une case), dans le jeu comme en entraînement.
+- Audio : démarrage battle fiabilisé malgré le chevauchement menu/Play; loop conservé, tempo accéléré progressivement et effets de niveau superposés.
+
 ## 1.38.0 — 9 novembre 2026
 
 - 4D : dérive verticale pseudo-aléatoire du plan et fragments géométriques flous qui remontent à différentes profondeurs pour renforcer la sensation de chute.
