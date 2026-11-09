@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.36.0 — 9 novembre 2026
+
+- 1D : épaisseur écran constante pendant toute la traversée; les portes passent en gris après franchissement complet, puis se désintègrent en fondu.
+- Palette néon unifiée à sept couleurs, mélangées à chaque partie et appliquées aux dimensions successives.
+
 ## 1.35.0 — 9 novembre 2026
 
 - Dimensions 1D et 4D : les murs débordent désormais du cadre pour ne plus laisser apparaître leurs extrémités.
