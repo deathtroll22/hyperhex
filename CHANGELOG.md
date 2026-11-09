@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.21.0 — 9 novembre 2026
+
+- 1D : vitesse des murs strictement linéaire avant le curseur ; le ralentissement commence uniquement après le franchissement de la ligne.
+- 4D plié : première porte programmée pour entrer du bord supérieur ou inférieur avec davantage de temps de réaction ; arrivée des murs ralentie et distorsion réduite.
+- Distorsion 2D, 3D, 5D et 6D pilotée par la vitesse et le sens de rotation : elle s’annule au repos, monte progressivement pendant le mouvement et s’inverse avec la rotation.
+
 ## 1.20.0 — 9 novembre 2026
 
 - Accueil : véritable panneau hexagonal sans bordure, record sans unité ni « s », typographie assortie au titre.
