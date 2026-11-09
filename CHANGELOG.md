@@ -1,5 +1,9 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.29.0 — 9 novembre 2026
+
+- Portes du 1D avec halo néon violet, palette d’origine conservée. Entre 7D et 12D inclus, thème rouge néon sur les murs, le curseur, le fond et l’interface.
+
 ## 1.28.0 — 9 novembre 2026
 
 - Distorsion 6D atténuée au bord de l’écran pour que les murs gardent une trajectoire lisible. Couleurs 5D interpolées en temps réel selon le sens et l’intensité de la rotation, y compris pour les portes et le fond.
