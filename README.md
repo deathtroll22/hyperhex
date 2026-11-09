@@ -1,8 +1,10 @@
-# HYPERHEX Dimension — v1.42.0
+# HYPERHEX Dimension — v1.43.0
 
 [Jouer / Play](https://deathtroll22.github.io/hyperhex/)
 
 Nans Arnaud, 2026. Jeu navigateur pour ordinateur et mobile.
+
+Les paramètres d’équilibrage par dimension et les paliers audio sont centralisés dans [game-balance.js](game-balance.js).
 
 Six dimensions en 60 secondes, puis cycles accélérés. Flèches ou toucher pour déplacer et rejouer. Espace : accueil. P : pause. F : plein écran.
 

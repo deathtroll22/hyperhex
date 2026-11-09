@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.43.0 — 9 novembre 2026
+
+- Audio : tempo à 115 % au départ, puis paliers à 125 %, 134 %, 142 %, 149 %, 155 % et augmentations décroissantes jusqu’au plateau à 170 %. La vitesse change progressivement sur 0,07 s.
+- Équilibrage : les réglages actuels par dimension (cadence, délai, approche, curseur, ouverture, voies, distorsion, rotation et épaisseur) sont centralisés dans `game-balance.js`, chargé directement par le jeu.
+
 ## 1.42.0 — 9 novembre 2026
 
 - 2D à 6D : les côtés des ouvertures sont maintenant des limites coulissantes; les frôler ne fait plus perdre. La face frontale des murs reste dangereuse.
