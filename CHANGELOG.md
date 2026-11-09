@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.19.0 — 9 novembre 2026
+
+- Repères radiaux à six secteurs en 3D et 6D ; les portes s’alignent maintenant sur ces repères, qui tournent et se déforment avec l’arène.
+- Le 5D conserve son repère et son alignement existants ; la même logique de six secteurs est maintenant cohérente entre 2D, 3D, 5D et 6D.
+
 ## 1.18.0 — 9 novembre 2026
 
 - 1D : épaisseur des portes constante de leur apparition jusqu’à la ligne ; après le passage, elles ralentissent, restent grisées à l’écran plus longtemps, puis sortent du champ.
