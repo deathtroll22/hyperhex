@@ -1,5 +1,11 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.27.0 — 9 novembre 2026
+
+- Le curseur 4D reprend le marqueur horizontal 1D. La distorsion de la dimension pliée s’applique davantage aux murs, tandis que les lignes de fond sont nettement plus calmes.
+- Espacement 5D réduit avec le temps minimal de déplacement conservé.
+- Flux de portes 6D mélangé aléatoirement entre l’extérieur et le centre ; jamais plus de deux portes consécutives de la même origine, sans délai artificiel lors d’un changement de sens.
+
 ## 1.26.0 — 9 novembre 2026
 
 - Réglages simplifiés pour mobile : volumes musique/effets sur 0–4, suppression des contrôles Practice, rotation, distorsion et palette ; réduction des flashs conservée.
