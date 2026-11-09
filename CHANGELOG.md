@@ -1,5 +1,13 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.24.0 — 9 novembre 2026
+
+- Déblocage secret de l’entraînement : trois clics sur HYPERHEX, puis 1–2–3, à répéter trois fois sans minuterie ; le code est réinitialisé au rechargement.
+- Choix d’un chiffre de 1 à 6 pour lancer la dimension correspondante en entraînement infini, sans record ni score sauvegardé ; les flèches relancent sur cette dimension, Espace revient au menu d’entraînement.
+- Déblocage signalé par un flash, un hexagone au liseré rouge électrique et un logo rouge ; le mode ne se débloque qu’une fois par lancement.
+- Glitches du titre et de l’hexagone déclenchés de manière aléatoire et asynchrone, avec des doubles impulsions rouges ou noir et blanc.
+- Fond du menu redessiné en plans anguleux remplis, dégradés, grilles et gris nuancés, sans contours autour des formes.
+
 ## 1.23.0 — 9 novembre 2026
 
 - Accueil : glitch du titre renforcé et fond animé enrichi de formes géométriques, d’aplats sombres transparents et de gris plus contrastés.
