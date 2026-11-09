@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.30.0 — 9 novembre 2026
+
+- Menu mobile restructuré : logo réduit/abaissé, barre de progression et score recentrés/rapprochés, bouton Play plus étroit et entièrement dans l’hexagone. Les deux états partagent la même géométrie.
+- Palette du menu normal passée au rouge néon ; palette training en noir et blanc avec mention TRAINING MODE au-dessus de la progression. Le record reste visible dans les deux modes.
+- Projection 4D refaite avec une ondulation continue à travers toute la porte, supprimant le pincement et les fragments aux bords.
+- Le mode training peut être quitté puis déverrouillé de nouveau autant de fois que souhaité.
+
 ## 1.29.0 — 9 novembre 2026
 
 - Portes du 1D avec halo néon violet, palette d’origine conservée. Entre 7D et 12D inclus, thème rouge néon sur les murs, le curseur, le fond et l’interface.
