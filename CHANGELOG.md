@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.40.0 — 9 novembre 2026
+
+- Audio : loop battle lu comme un buffer continu Web Audio; les changements de tempo sont appliqués à la source en cours, sans pause ni rechargement. La montée est limitée à 10 points de pourcentage par dimension, avec un fondu de 120 ms; le son de niveau est renforcé et reste superposé.
+- Collisions 2D à 6D : marge légèrement élargie au bord des ouvertures pour que le curseur puisse frôler le cadre sans déclencher immédiatement une perte.
+
 ## 1.39.0 — 9 novembre 2026
 
 - 6D : chaque porte est calée sur l’instant de passage du curseur; d’un sens d’arrivée à l’autre, les emplacements restent voisins (écart maximal d’une case), dans le jeu comme en entraînement.

@@ -1,4 +1,4 @@
-# HYPERHEX Dimension — v1.39.0
+# HYPERHEX Dimension — v1.40.0
 
 [Jouer / Play](https://deathtroll22.github.io/hyperhex/)
 
