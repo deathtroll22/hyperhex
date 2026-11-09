@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.28.0 — 9 novembre 2026
+
+- Distorsion 6D atténuée au bord de l’écran pour que les murs gardent une trajectoire lisible. Couleurs 5D interpolées en temps réel selon le sens et l’intensité de la rotation, y compris pour les portes et le fond.
+- Le menu retrouve sa boucle intro à chaque retour ; la boucle battle ne joue que pendant une partie. La lecture est réessayée au premier geste/clavier pour respecter les règles iOS.
+- Bouton Jouer mobile recentré et moins large, liseré de focus supprimé.
+- Trois taps rapides sur le logo désactivent le mode training jusqu’au rechargement de la page.
+
 ## 1.27.0 — 9 novembre 2026
 
 - Le curseur 4D reprend le marqueur horizontal 1D. La distorsion de la dimension pliée s’applique davantage aux murs, tandis que les lignes de fond sont nettement plus calmes.
