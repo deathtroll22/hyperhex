@@ -1,5 +1,14 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.22.0 — 9 novembre 2026
+
+- Menu : nouvel arrière-plan monochrome animé, avec contours épais, plaques géométriques et intensités de gris variées.
+- Menu : panneau hexagonal régulier à coins adoucis, progression unifiée sur une ligne de 60 secondes.
+- 1D et 4D plié : nouveau décor de lignes horizontales de longueurs, tons et épaisseurs variés, animé verticalement ; en 4D, les lignes se courbent avec la distorsion.
+- 1D : repère horizontal discret rétabli, qui s’illumine au passage des portes.
+- 4D plié : voies calées sur six secteurs égaux, déplacements entre portes limités à deux secteurs ; rebouclage aux bords désactivé via un réglage interne conservé.
+- 4D plié : distorsion réduite et murs amincis à épaisseur constante.
+
 ## 1.21.0 — 9 novembre 2026
 
 - 1D : vitesse des murs strictement linéaire avant le curseur ; le ralentissement commence uniquement après le franchissement de la ligne.
