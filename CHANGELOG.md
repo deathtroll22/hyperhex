@@ -1,5 +1,12 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.26.0 — 9 novembre 2026
+
+- Réglages simplifiés pour mobile : volumes musique/effets sur 0–4, suppression des contrôles Practice, rotation, distorsion et palette ; réduction des flashs conservée.
+- Fenêtre Réglages affichée seule au premier plan, avec fermeture immédiate par croix et application instantanée des changements.
+- Menu ajusté aux petits écrans iPhone : titre et bouton Jouer restent dans l’hexagone ; flèches tactiles décoratives supprimées.
+- Glitch rouge conservé sur le logo ; contour hexagonal pouvant mêler blanc et rouge, sans flash de couleur sur son fond.
+
 ## 1.25.1 — 9 novembre 2026
 
 - Le bouton Jouer lance toujours une partie normale, même après le déblocage du mode entraînement. Le choix des dimensions reste disponible pour l’entraînement.
