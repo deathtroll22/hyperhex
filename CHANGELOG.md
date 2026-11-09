@@ -1,5 +1,14 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.23.0 — 9 novembre 2026
+
+- Accueil : glitch du titre renforcé et fond animé enrichi de formes géométriques, d’aplats sombres transparents et de gris plus contrastés.
+- 1D : bandes de fond beaucoup plus épaisses, longueurs et cinq valeurs de gris distinctes ; repère de passage fixe sans clignotement.
+- 1D : portes en violet électrique, fondu accéléré après le curseur et disparition peu après le franchissement.
+- 2D et profondeur (3D) : torsion inversée par rapport à la rotation, avec plusieurs changements de sens et de vitesse pendant chaque palier de dix secondes.
+- 4D plié : curseur centré verticalement ; déformation plus visible sur les arrivées, portes légèrement épaissies, vitesse et épaisseur variées avec un intervalle régulier de 1,15 s.
+- 5D élastique : distorsion atténuée et arrivée des portes régularisée à 1,10 s d’intervalle.
+
 ## 1.22.0 — 9 novembre 2026
 
 - Menu : nouvel arrière-plan monochrome animé, avec contours épais, plaques géométriques et intensités de gris variées.
