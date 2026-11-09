@@ -1,5 +1,9 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.41.0 — 9 novembre 2026
+
+- 2D à 6D : les côtés des ouvertures sont maintenant des limites coulissantes; les frôler ne fait plus perdre. La face frontale des murs reste dangereuse.
+
 ## 1.40.0 — 9 novembre 2026
 
 - Audio : loop battle lu comme un buffer continu Web Audio; les changements de tempo sont appliqués à la source en cours, sans pause ni rechargement. La montée est limitée à 10 points de pourcentage par dimension, avec un fondu de 120 ms; le son de niveau est renforcé et reste superposé.
