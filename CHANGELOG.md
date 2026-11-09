@@ -1,5 +1,10 @@
 # HYPERHEX Dimension — historique des publications
 
+## 1.35.0 — 9 novembre 2026
+
+- Dimensions 1D et 4D : les murs débordent désormais du cadre pour ne plus laisser apparaître leurs extrémités.
+- 2D néon : suppression des traits de contour aux bords des portes, qui formaient une couture visible dans leur ouverture.
+
 ## 1.34.0 — 9 novembre 2026
 
 - 4D accéléré : projection directe des scènes en ligne, échantillonnage des murs réduit et relief regroupé par face, sans répétition de petits tracés coûteux. L’éclat 4D est allégé pour stabiliser le rythme d’image sur ordinateur.
